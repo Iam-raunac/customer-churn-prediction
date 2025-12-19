@@ -40,7 +40,7 @@ A machine learning web application that predicts whether a telecom customer is l
 - Streamlit
 
 ## 🌐 Live Demo
-(Add your Streamlit Cloud URL here)
+https://iam-raunac-customer-churn-prediction-app-4i7usr.streamlit.app/
 
 ## 📁 Project Structure
 
