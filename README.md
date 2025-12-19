@@ -16,9 +16,6 @@ A machine learning web application that predicts whether a telecom customer is l
 - Scikit-learn
 - Streamlit
 
-## 🌐 Live Demo
-(Add your Streamlit Cloud URL here)
-
 ## 📁 Project Structure
 
 # 📉 Customer Churn Prediction App
